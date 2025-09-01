@@ -1,0 +1,6 @@
+__pycache__
+mnist.pkl/
+*.pkl
+mnist.pkl/
+*.pkl
+mnist.pkl.gz/
